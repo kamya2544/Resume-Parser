@@ -1,0 +1,41 @@
+# ========================
+# Python
+# ========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Poetry
+poetry.lock
+
+# Environment variables (NEVER commit secrets)
+.env
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+build/
+.cache/
+
+# ========================
+# Project-specific
+# ========================
+# Parsed resume results (may contain personal data)
+backend/results/
+
+# ========================
+# IDE / OS
+# ========================
+.vscode/settings.json
+.idea/
+*.DS_Store
+Thumbs.db
