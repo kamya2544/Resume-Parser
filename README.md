@@ -1,7 +1,7 @@
 # Resume Parser — PDF to JSON
 
 > Upload a PDF resume → get structured JSON fields + chat with it.  
-> Built by **Kamya Mehra** and **Diya Arya**
+
 
 **Stack:** React + Vite · FastAPI · Groq LLaMA-3 · HuggingFace sentence-transformers · FAISS · Poetry
 
