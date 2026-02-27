@@ -59,7 +59,7 @@ export default function App() {
             )}
 
             <footer className="footer">
-                By Kamya Mehra and Diya Arya - Built with Groq LLM + HuggingFace Embeddings
+                Built with Groq LLM + HuggingFace Embeddings
             </footer>
         </div>
     )
